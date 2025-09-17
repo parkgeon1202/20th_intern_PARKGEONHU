@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>hw2_pkg</name>
+  <version>0.1.0</version>
+  <description>Qt GUI to control turtlesim and show cmd_vel</description>
+
+  <maintainer email="author@mail.com">author</maintainer>
+  <author>author</author>
+  <license>BSD</license>
+
+  <!-- build tool -->
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <!-- ROS 2 runtime/빌드 공통 의존 -->
+  <depend>rclcpp</depend>
+  <depend>std_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <depend>turtlesim</depend>
+  <depend>std_srvs</depend>
+
+  <!-- 선택: Qt를 시스템 패키지로 설치해 쓴다면 명시(하나만) -->
+  <!-- Qt5: -->
+  <exec_depend>qtbase5-dev</exec_depend>
+  <!-- Qt6 쓰면 위 줄 대신
+  <exec_depend>qt6-base-dev</exec_depend>
+  -->
+
+  <!-- 테스트(선택) -->
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_lint_common</test_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
