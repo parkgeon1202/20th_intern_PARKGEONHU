@@ -1,0 +1,8 @@
+subscribe_node:
+  ros__parameters:
+    link_bottom: 120.0
+    link_middle: 100.0
+    link_upper: 80.0
+    angle_bottom: 30.0
+    angle_middle: 90.0
+    angle_upper: 90.0
