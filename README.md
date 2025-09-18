@@ -20,7 +20,7 @@
   - day4
     - hw1    O
     - hw2    O
-  - C++&Qt_project o
+  - C++&Qt_project O
       
 - ROS2
   - day1
