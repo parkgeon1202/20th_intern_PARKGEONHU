@@ -34,7 +34,7 @@
     - hw4    O
   - day3
     - hw1    O
-    - hw2    수정 중, 폴더 이름 수정 중
+    - hw2    O 부족했던 부분 보완함
   - day4
     - hw1    O
     - hw2    x 
