@@ -11,8 +11,8 @@
     - hw2    O
     - hw3    O
   - day2
-    - hw1    형식 맞춰야 함
-    - hw2    수정 중
+    - hw1    O
+    - hw2    O
   - day3
     - hw1    O 기능 부족한 거 추가함
     - hw2    O
