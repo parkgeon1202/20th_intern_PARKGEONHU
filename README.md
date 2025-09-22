@@ -38,3 +38,9 @@
   - day4
     - hw1    O
     - hw2    O  과제 제출 완료
+- OpenCv
+  - day1
+    - hw1    O
+    - hw2    O 
+  - day2
+    - hw1    O  
